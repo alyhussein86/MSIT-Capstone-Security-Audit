@@ -1,5 +1,5 @@
 import pytest
-from correlate import correlate_vulnerabilities
+from Correlate import correlate_vulnerabilities
 
 def test_detect_vuln_03_tls():
     # White-box test: Validates if the engine identifies TLS 1.0 (0x0301)
