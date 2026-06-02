@@ -1,0 +1,21 @@
+{
+  "user_id": 10234,
+  "first_name": "Jane",
+  "last_name": "Smith",
+  "email": "jane.smith@example.com",
+  "is_active": true,
+  "permissions": [
+    "read",
+    "write",
+    "execute"
+  ],
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip_code": "12345"
+  },
+  "account_balance": 250.75,
+  "last_login": "2024-05-14T08:30:00Z",
+  "notes": null
+}
