@@ -1,0 +1,6 @@
+services:
+  msitcapstonesecurityaudit:
+    image: msitcapstonesecurityaudit
+    build:
+      context: .
+      dockerfile: ./Dockerfile
